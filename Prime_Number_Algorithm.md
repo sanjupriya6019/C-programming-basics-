@@ -1,8 +1,8 @@
 /*
-*_Prime Number Algorithm.
+## Prime Number Algorithm.
 Problem Statement
     Write a c program to check whether a given number is prime or not.
-Algorithm 
+#Algorithm 
     start
      Declare variables num, i, and flag=1.
        Read a number from the user.
@@ -16,10 +16,10 @@ Stop.
   Example 
     Input :13.
      Output: 13 is a Prime Number
-Time complexity 
+## Time complexity 
   0(n)
 
-  Simple memory trick
+ # Simple memory trick
     Prime number= No zero remainder (exceppt when divided by 1 and itself).
     Non-prime number= At least one zero remainder between 2 and n-1.
 
