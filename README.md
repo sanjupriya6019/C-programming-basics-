@@ -24,6 +24,7 @@ My goal is to combine both worlds — *hardware-level control* and *software-lev
 -Unary_post_prifix
 -unary_prifix
 -unsined char
+-Arithmitic
 ------
 ## Learning Goals
 -Strengthen logic building and problem solving in c.
@@ -36,7 +37,7 @@ My goal is to combine both worlds — *hardware-level control* and *software-lev
    '''bash
    git clone https://github.com/sanjupriya6019/c-programming.git
 ---
-##Navigate
+##Navigate to the project
 cd C-programming-basics
 ----
 ##Compile and Run any program
