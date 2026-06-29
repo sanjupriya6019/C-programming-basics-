@@ -1,13 +1,12 @@
 #include<stdio.h>
 int main(){
-    int num,original,rem,sum=0,count;
-    printf("Enetr the number:");
+    int num,original,rem,sum=0;
+    printf("Enter the number:");
     scanf("%d",&num);
-    for (count=0;count<20;count++)
     original=num;
     while (num !=0){
         rem=num%10;
-        sum= sum+(rem * rem*rem);
+        sum= sum+(rem*rem*rem);
         num=num/10;
     }
     if (sum == original)
